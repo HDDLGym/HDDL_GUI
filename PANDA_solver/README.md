@@ -1,0 +1,1 @@
+We include the PANDA solver components (binary files) here. You can obtain these components from this [GitHub repo](https://github.com/panda-planner-dev). If you choose to get the binary execution files from the original source, please make sure to include them here with similar names to ensure the GUI work.
