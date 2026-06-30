@@ -11,7 +11,7 @@ To run the GUI, follow these steps:
 
 2. \[Optional\] Add the Anthropic API key to the file *.env* if you wish to call LLM.
 
-3. \[Optional\] The repo includes the solvers in binary files. If you wish to install the solver yourself, please follow the links above to get them from the original sources. Please save the solvers in similar name and location to ensure the GUI still work.
+3. \[Optional\] The repo includes the solvers in executable binary files. If you wish to install the solver yourself, please follow the links above to get them from the original sources. Please save the solvers in similar name and location to ensure the GUI still work.
 
 4. Call the app.py on the terminal by running this command:
 
